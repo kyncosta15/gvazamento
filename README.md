@@ -14,3 +14,9 @@ Este projeto é um protótipo de um aplicativo mobile desenvolvido com **React N
 - **API do Google Maps**: Para exibir o mapa e permitir a marcação dos pontos de vazamento.
 - **JavaScript**: Linguagem utilizada para a lógica do aplicativo.
 
+
+## Getting Started
+
+- Install Node.js and Expo CLI.
+- Run `npm install` to install dependencies.
+- Start the project with `npm start` or `npx expo start`.
